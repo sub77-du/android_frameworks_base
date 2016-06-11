@@ -228,4 +228,7 @@
     <string name="pref_crop_behavior_summary">Use the cropped image even if the original one hasn\'t actually been cropped with the crop action</string>
     <string name="action_ok">OK</string>
 
+    <!-- Slim recents app sidebar queue app toast -->
+    <string name="toast_recents_queue_app">Launch %s after closing recents</string>
+    <string name="toast_recents_cancel_queued_app">Canceled app launch</string>
 </resources>
